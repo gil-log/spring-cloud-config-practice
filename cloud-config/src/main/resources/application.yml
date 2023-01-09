@@ -9,4 +9,4 @@ spring:
         git:
           uri: https://github.com/gil-log/spring-cloud-config-practice
           search-paths: cloud-config-file/**
-          default-label: master
+          default-label: main
